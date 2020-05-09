@@ -11,8 +11,6 @@ random_search_configs/
 *.idea
 .idea/workspace.xml
 
-
-dataset-processed-cgm/
-prediction-processed-cgm/
-prediction-raw-cgm/
-dataset-raw-cgm/
+*.class
+*/.class
+/.class
